@@ -1,0 +1,6 @@
+Static :
+-----------
+Static is a keyword in Java. We can create a static block, static variable or a static method. When a member is made static, it is associated with the class
+and not to the object of the class. So when a member is made static, only one copy of it is created and is shared by all instances of that class.
+The static concept is used for the memory management.
+
